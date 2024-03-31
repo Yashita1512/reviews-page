@@ -2,8 +2,8 @@
     {
       "review_id": "123456",
       "reviewer_name": "Amgad",
-      "content": "Exceptional\n\nExceptional Pros: beautiful location, staff so friendly special host Mss Duksin, fishing trip is very nice we catch fish and cocked in same Resturant it was amazing , food is very delicious and fresh",
-      "raw_content": "Exceptional\n\nExceptional Pros: beautiful location, staff so friendly special host Mss Duksin, fishing trip is very nice we catch fish and cocked in same Resturant it was amazing , food is very delicious and fresh",
+      "content": "Exceptional\n\nExceptional Pros: beautiful location, staff so friendly special host Mss Duksin, fishing trip is very nice we catch fish and cooked in same Resturant it was amazing , food is very delicious and fresh",
+      "raw_content": "Exceptional\n\nExceptional Pros: beautiful location, staff so friendly special host Mss Duksin, fishing trip is very nice we catch fish and cooked in same Resturant it was amazing , food is very delicious and fresh",
       "date": "06 May 2022",
       "rating_review_score": 10,
       "hotel_code": "ZMVLHIFF",
@@ -127,8 +127,8 @@
           "sentiment": "Positive",
           "highlight_indices": [
             [
-              -1,
-              26,
+              99,
+              111,
               "Positive"
             ]
           ]
@@ -148,8 +148,8 @@
           "sentiment": "Positive",
           "highlight_indices": [
             [
-              -1,
-              108,
+              124,
+              178,
               "Positive"
             ]
           ]
@@ -248,6 +248,25 @@
       "bookmark_pk": 0,
       "analytics": [
         {
+          "category": "service",
+          "topic": "service",
+          "phrases": [
+            "service",
+            "service"
+          ],
+          "sentences": [
+            "with service"
+          ],
+          "sentiment": "Positive",
+          "highlight_indices": [
+            [
+              161,
+              174,
+              "Positive"
+            ]
+          ]
+        },
+        {
           "category": "staff",
           "topic": "staff",
           "phrases": [
@@ -278,25 +297,6 @@
             [
               452,
               522,
-              "Positive"
-            ]
-          ]
-        },
-        {
-          "category": "service",
-          "topic": "service",
-          "phrases": [
-            "service",
-            "service"
-          ],
-          "sentences": [
-            "with service"
-          ],
-          "sentiment": "Positive",
-          "highlight_indices": [
-            [
-              162,
-              174,
               "Positive"
             ]
           ]
@@ -358,25 +358,6 @@
       "bookmark_pk": 0,
       "analytics": [
         {
-          "category": "experience",
-          "topic": "experience",
-          "phrases": [
-            "stay",
-            "stay"
-          ],
-          "sentences": [
-            "was a perfect stay with"
-          ],
-          "sentiment": "Positive",
-          "highlight_indices": [
-            [
-              209,
-              232,
-              "Positive"
-            ]
-          ]
-        },
-        {
           "category": "staff",
           "topic": "staff",
           "phrases": [
@@ -391,6 +372,25 @@
             [
               83,
               128,
+              "Positive"
+            ]
+          ]
+        },
+        {
+          "category": "experience",
+          "topic": "experience",
+          "phrases": [
+            "stay",
+            "stay"
+          ],
+          "sentences": [
+            "was a perfect stay with"
+          ],
+          "sentiment": "Positive",
+          "highlight_indices": [
+            [
+              209,
+              232,
               "Positive"
             ]
           ]
